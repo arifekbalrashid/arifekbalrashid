@@ -1,7 +1,6 @@
 # Hi, I'm Md Arif Ekbal Rashid
-
- I’m currently learning **Network Security, AI/ML**  
- 📩 Reach me at: arifekbalrashid786@gmail.com
+I’m currently learning **Network Security, AI/ML**  
+📩 Reach me at: arifekbalrashid786@gmail.com
 
 ## 🚀 Skills
 
@@ -26,9 +25,14 @@
 - 👨‍💻 Completed 100+ labs on **Network Security & Pentesting**
 - 🤖 Building hands-on projects in **AI/ML**
 
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.rif18/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yourusername)
+
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2553166" style="border:none;width:300px;height:120px;"></iframe>
+
+---
+
