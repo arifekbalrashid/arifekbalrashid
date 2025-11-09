@@ -38,7 +38,7 @@ I’m currently learning **Network Security, AI/ML**
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/md-arif-ekbal-rashid-5a56a6288/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/md-arif-ekbal-rashid-5a56a6288/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/a.rif18/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/emarky)
 
