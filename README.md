@@ -1,44 +1,67 @@
-# Hi, I'm Md Arif Ekbal Rashid
+<div align="center">
 
-I’m currently learning **Network Security, AI/ML**
-📩 Reach me at: **[arifekbalrashid786@gmail.com](mailto:arifekbalrashid786@gmail.com)**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FFD1&height=180&section=header&text=%20&fontSize=40&fontColor=00FFD1&animation=twinkling&fontAlignY=40&desc=BUILDING%20INTELLIGENT%20SYSTEMS%20%7C%20GEN%20AI%20%7C%20ML&descSize=28&descAlignY=35"/>
 
-## 🚀 Skills
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=600&color=00FFD1&center=true&vCenter=true&width=900&lines=BOOTING+NEURAL+INTERFACE...;LOADING+MACHINE+LEARNING+MODELS...;TRAINING+GEN-AI+PIPELINES...;BUILDING+INTELLIGENT+APPLICATIONS...;SYSTEM+STATUS:+ONLINE"/>
 
-### Programming
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=java\&logoColor=white)
 
-### Frameworks & Libraries
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+| Parameter | Value |
+|----------|------|
+| Name | Md Arif Ekbal Rashid |
+| Role | AI/ML Engineer |
+| Domain | Generative AI · Machine Learning · Intelligent Systems |
+| Focus | AI Systems Engineering |
+| Current Mission | Building scalable AI applications |
 
-### Security
+---
 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-000000?style=for-the-badge\&logo=adguard\&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge\&logo=burpsuite\&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
 
-### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge\&logo=anaconda\&logoColor=white)
+# TECHNOLOGY STACK
 
-## 🏆 Achievements
+<div align="center">
 
-* 🥈 Ranked **Top 2% on TryHackMe**
-* 👨‍💻 Completed **100+ labs** on Network Security & Pentesting
-* 🤖 Building hands-on projects in **AI/ML**
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,mongodb,linux,git,docker,cpp&perline=5" />
 
-## 🌐 Connect with Me
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/md-arif-ekbal-rashid-5a56a6288/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/a.rif18/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/emarky)
+---
+
+
+
+# GITHUB STATS
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=arifekbalrashid&show_icons=true&theme=transparent&title_color=00FFD1&icon_color=00FFD1&text_color=ffffff&hide_border=true&count_private=true"/>
+
+</div>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# EXECUTION STREAK
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arifekbalrashid&theme=transparent&stroke=00FFD1&ring=00FFD1&fire=00FFD1&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+
+</div>
+
+---
+
+# ACTIVITY GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arifekbalrashid&bg_color=000000&color=00FFD1&line=00FFD1&point=ffffff&hide_border=true"/>
+
+</div>
 
